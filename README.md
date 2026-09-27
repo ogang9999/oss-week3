@@ -18,3 +18,7 @@ practice repository for the Open Source Software course
 |git status|Inspect file states|
 |git add| change untracked states to staged|
 
+## Remote Update
+
+This sentence was added on GitHub
+
