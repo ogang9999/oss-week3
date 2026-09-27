@@ -1,0 +1,4 @@
+#Ignore all .itm files
+*.itm
+#ignore all files in any directory named build
+build/
